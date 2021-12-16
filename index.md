@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Coarse Semantic Segmentation with Dimensionality Reduced Subblocks
 
 You can use the [editor on GitHub](https://github.com/jeffhank/ComputerVisProjectWeb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
