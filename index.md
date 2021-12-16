@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Coarse Semantic Segmentation with Dimensionality Reduced Subblocks
+## Coarse Semantic Segmentation with Dimensionality Reduced Subblocks
 ### Motivation 
 ### Header 3
 
